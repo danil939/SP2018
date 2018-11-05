@@ -1,0 +1,4 @@
+﻿  Task3.cpp
+c:\users\dns\desktop\ос\task3\task3.cpp(46): warning C4244: -=: преобразование "time_t" в "char", возможна потеря данных
+c:\users\dns\desktop\ос\task3\task3.cpp(53): warning C4244: +=: преобразование "time_t" в "char", возможна потеря данных
+  Task3.vcxproj -> C:\Users\DNS\Desktop\ОС\Task3\Debug\Task3.exe
